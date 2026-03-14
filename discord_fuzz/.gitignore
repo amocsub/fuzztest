@@ -1,0 +1,6 @@
+# Build artifacts
+build/
+
+# Discord SDK binaries (downloaded separately)
+sdk/bin/
+sdk/lib/
